@@ -3,119 +3,381 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 65532,
+      "count": 14377,
       "max": [
-        -0.3006863594055176,
-        0.8507657051086426,
-        -6.959128379821777
+        3.3110342025756836,
+        1.7392911911010742,
+        2.1394801139831543
       ],
       "min": [
-        -2.5337166786193848,
-        -1.1062339544296265,
-        -9.50500202178955
+        -2.7428531646728516,
+        -0.7213749885559082,
+        -1.092665433883667
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 786384,
+      "byteOffset": 172524,
       "componentType": 5126,
-      "count": 65532,
+      "count": 14377,
       "max": [
-        0.9999980330467224,
-        0.9999963641166687,
-        0.9999743103981018
+        1.0,
+        1.0,
+        1.0
       ],
       "min": [
-        -0.9999409914016724,
-        -0.9999785423278809,
-        -0.9999449253082275
+        -1.0,
+        -1.0,
+        -1.0
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 1,
+      "bufferView": 3,
       "componentType": 5126,
-      "count": 65532,
+      "count": 14377,
       "max": [
-        0.9924188256263733,
+        1.0,
+        1.0,
+        1.0,
         1.0
       ],
       "min": [
-        0.0,
-        7.136404747143388e-05
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14377,
+      "max": [
+        0.9963204264640808,
+        0.9920396208763123
+      ],
+      "min": [
+        0.001014073146507144,
+        0.04365498200058937
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 343995,
+      "count": 39513,
       "type": "SCALAR"
     },
     {
       "bufferView": 2,
-      "byteOffset": 1572768,
+      "byteOffset": 345048,
       "componentType": 5126,
-      "count": 24709,
+      "count": 848,
       "max": [
-        -0.30030107498168945,
-        0.1661180555820465,
-        -6.959128379821777
+        2.106475830078125,
+        1.5843786001205444,
+        1.2153759002685547
       ],
       "min": [
-        -2.5334835052490234,
-        -1.1062339544296265,
-        -9.50500202178955
+        -0.24534155428409576,
+        -0.5668697357177734,
+        0.319683313369751
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 1869276,
+      "byteOffset": 355224,
       "componentType": 5126,
-      "count": 24709,
+      "count": 848,
       "max": [
-        0.9998641610145569,
-        0.9999262094497681,
-        0.9999316930770874
+        1.0,
+        0.9994185566902161,
+        0.03430255502462387
       ],
       "min": [
-        -0.9995655417442322,
-        -0.9999405741691589,
-        -0.9999021291732788
+        -1.0,
+        -0.9994185566902161,
+        -0.03430255502462387
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 1,
-      "byteOffset": 524256,
+      "bufferView": 3,
+      "byteOffset": 230032,
       "componentType": 5126,
-      "count": 24709,
+      "count": 848,
       "max": [
-        0.9999438524246216,
-        0.9964410066604614
+        1.0,
+        1.0,
+        1.0,
+        1.0
       ],
       "min": [
-        0.0,
-        0.0001330458326265216
+        -1.0,
+        -1.0,
+        -0.025287402793765068,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 115016,
+      "componentType": 5126,
+      "count": 848,
+      "max": [
+        0.028190799057483673,
+        0.8921036124229431
+      ],
+      "min": [
+        0.0031395014375448227,
+        0.8701760768890381
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 1375980,
+      "byteOffset": 158052,
       "componentType": 5125,
-      "count": 106005,
+      "count": 1248,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 365400,
+      "componentType": 5126,
+      "count": 6475,
+      "max": [
+        0.3858043849468231,
+        1.1887245178222656,
+        0.8347599506378174
+      ],
+      "min": [
+        -0.3779769539833069,
+        -0.4202748239040375,
+        -0.9773536920547485
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 443100,
+      "componentType": 5126,
+      "count": 6475,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 243600,
+      "componentType": 5126,
+      "count": 6475,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 121800,
+      "componentType": 5126,
+      "count": 6475,
+      "max": [
+        0.5334293842315674,
+        0.32248377799987793
+      ],
+      "min": [
+        0.006105236709117889,
+        0.04553017392754555
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163044,
+      "componentType": 5125,
+      "count": 18894,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 520800,
+      "componentType": 5126,
+      "count": 3675,
+      "max": [
+        2.099466323852539,
+        1.5789210796356201,
+        1.4548351764678955
+      ],
+      "min": [
+        -0.20042696595191956,
+        -0.5610060095787048,
+        -0.6398676633834839
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 564900,
+      "componentType": 5126,
+      "count": 3675,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 347200,
+      "componentType": 5126,
+      "count": 3675,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 173600,
+      "componentType": 5126,
+      "count": 3675,
+      "max": [
+        0.995198130607605,
+        0.9591376185417175
+      ],
+      "min": [
+        0.0018316935747861862,
+        0.24772635102272034
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 238620,
+      "componentType": 5125,
+      "count": 8616,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 609000,
+      "componentType": 5126,
+      "count": 14015,
+      "max": [
+        0.2356272041797638,
+        0.357107937335968,
+        0.9643651247024536
+      ],
+      "min": [
+        -0.4463949501514435,
+        -1.065049409866333,
+        -0.7632247805595398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 777180,
+      "componentType": 5126,
+      "count": 14015,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 406000,
+      "componentType": 5126,
+      "count": 14015,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 203000,
+      "componentType": 5126,
+      "count": 14015,
+      "max": [
+        0.9973926544189453,
+        0.9379392266273499
+      ],
+      "min": [
+        0.004806832410395145,
+        0.0012484691105782986
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 273084,
+      "componentType": 5125,
+      "count": 42531,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "Sircher (https://sketchfab.com/Sircher)",
+      "author": "farazghani (https://sketchfab.com/farazghani)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/svitzer-gelliswick-fishing-boat-3d-scan-172f7b2cddb942c4a6867e55bea4c47a",
-      "title": "Svitzer Gelliswick - Fishing boat 3D Scan"
+      "source": "https://sketchfab.com/3d-models/mass-boat-c6f6d2bc33d94a0f82c3edc8c0aa2a39",
+      "title": "Mass Boat"
     },
     "generator": "Sketchfab-12.66.0",
     "version": "2.0"
@@ -123,82 +385,148 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 1800000,
+      "byteLength": 443208,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 721928,
-      "byteOffset": 1800000,
+      "byteLength": 315120,
+      "byteOffset": 443208,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 2165784,
-      "byteOffset": 2521928,
+      "byteLength": 945360,
+      "byteOffset": 758328,
       "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 630240,
+      "byteOffset": 1703688,
+      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 4687712,
+      "byteLength": 2333928,
       "uri": "scene.bin"
     }
   ],
-  "extensionsUsed": [
-    "KHR_materials_unlit"
-  ],
   "images": [
     {
-      "uri": "textures/material_0_baseColor.png"
+      "uri": "textures/material_baseColor.png"
+    },
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/material_normal.png"
     }
   ],
   "materials": [
     {
+      "alphaMode": "BLEND",
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_unlit": {}
+      "name": "material",
+      "normalTexture": {
+        "index": 2
       },
-      "name": "material_0",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.9651295732,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.2212271341
       }
     }
   ],
   "meshes": [
     {
-      "name": "Object_0",
+      "name": "MBO_HULL_MASS_BOAT_V0_L9_2018_001_MAP_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TEXCOORD_0": 2
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
           },
-          "indices": 3,
+          "indices": 4,
           "material": 0,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Object_1",
+      "name": "MBO_GLASS_MASS_BOAT_V0_L9_2018_001_MAP_0",
       "primitives": [
         {
           "attributes": {
-            "NORMAL": 5,
-            "POSITION": 4,
-            "TEXCOORD_0": 6
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
           },
-          "indices": 7,
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "MBO_MOTOR_MASS_BOAT_V0_L9_2018_001_MAP_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "MBO_INT_MASS_BOAT_V0_L9_2018_001_MAP_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "MBO_CRANK_MASS_BOAT_V0_L9_2018_001_MAP_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
           "material": 0,
           "mode": 4
         }
@@ -211,47 +539,302 @@
         1
       ],
       "matrix": [
-        0.7907534241676331,
-        0.06294292956590639,
-        0.608890175819397,
+        1.0,
         0.0,
-        0.03540404140949249,
-        0.98833167552948,
-        -0.14814552664756753,
         0.0,
-        -0.6111101508140564,
-        0.13870376348495467,
-        0.7792981863021851,
         0.0,
-        7.365667819976807,
-        12.350164413452145,
-        17.144214630126957,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        2.7500000499003363e-08,
+        3.390000102854174e-08,
+        7.527312335340705e-24,
         1.0
       ],
       "name": "Sketchfab_model"
     },
     {
       "children": [
-        2,
-        3
+        2
       ],
-      "name": "Geode"
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "d6ccd7122fa54929aeb5b9571b7d105d.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        9,
+        11,
+        14
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0019523203372955322,
+        0.8790194988250732,
+        -3.0040740966796875e-05,
+        1.0
+      ],
+      "name": "MBO_HULL_MASS_BOAT_V0_L9_2018_001"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.284090518951416,
+        -0.508958101272583,
+        -0.23915183544158936,
+        1.0
+      ],
+      "name": "Object_4"
     },
     {
       "mesh": 0,
-      "name": "Object_2"
+      "name": "MBO_HULL_MASS_BOAT_V0_L9_2018_001_MAP_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -0.01194116473197937,
+        0.12347543239593506,
+        -3.0100345611572266e-05,
+        1.0
+      ],
+      "name": "MBO_GLASS_MASS_BOAT_V0_L9_2018_001"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.2701970338821411,
+        -0.5089581608772278,
+        0.5163922309875488,
+        1.0
+      ],
+      "name": "Object_7"
     },
     {
       "mesh": 1,
-      "name": "Object_3"
+      "name": "MBO_GLASS_MASS_BOAT_V0_L9_2018_001_MAP_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.9999999999999847,
+        1.3234889800848443e-23,
+        1.7484555314694907e-07,
+        0.0,
+        1.7484555314694642e-07,
+        -1.7484555314695172e-07,
+        -0.9999999999999696,
+        0.0,
+        3.057096742940039e-14,
+        0.9999999999999849,
+        -1.7484555314695172e-07,
+        0.0,
+        -3.1906280517578125,
+        0.043445706367492676,
+        0.39246490597724915,
+        1.0
+      ],
+      "name": "MBO_MOTOR_MASS_BOAT_V0_L9_2018_001"
+    },
+    {
+      "mesh": 2,
+      "name": "MBO_MOTOR_MASS_BOAT_V0_L9_2018_001_MAP_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0019523203372955322,
+        0.8790194988250732,
+        -3.0040740966796875e-05,
+        1.0
+      ],
+      "name": "MBO_INT_MASS_BOAT_V0_L9_2018_001"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.284090518951416,
+        -0.508958101272583,
+        -0.23915183544158936,
+        1.0
+      ],
+      "name": "Object_12"
+    },
+    {
+      "mesh": 3,
+      "name": "MBO_INT_MASS_BOAT_V0_L9_2018_001_MAP_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -2.4133665561676025,
+        0.8744581937789917,
+        -8.493661880493164e-07,
+        1.0
+      ],
+      "name": "MBO_CRANK_MASS_BOAT_V0_L9_2018_001"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.0006520748138427734,
+        -0.02523088827729225,
+        -0.08661985397338867,
+        1.0
+      ],
+      "name": "Object_15"
+    },
+    {
+      "mesh": 4,
+      "name": "MBO_CRANK_MASS_BOAT_V0_L9_2018_001_MAP_0"
     }
   ],
   "samplers": [
     {
       "magFilter": 9729,
       "minFilter": 9987,
-      "wrapS": 33071,
-      "wrapT": 33071
+      "wrapS": 10497,
+      "wrapT": 10497
     }
   ],
   "scene": 0,
@@ -267,6 +850,14 @@
     {
       "sampler": 0,
       "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
     }
   ]
 }
