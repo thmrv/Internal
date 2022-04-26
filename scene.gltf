@@ -3,86 +3,142 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 10362,
+      "count": 65532,
       "max": [
-        1383.2957763671875,
-        1194.7314453125,
-        449.2068786621094
+        -0.3006863594055176,
+        0.8507657051086426,
+        -6.959128379821777
       ],
       "min": [
-        -2146.375,
-        -255.36532592773438,
-        -449.85003662109375
+        -2.5337166786193848,
+        -1.1062339544296265,
+        -9.50500202178955
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 124344,
+      "byteOffset": 786384,
       "componentType": 5126,
-      "count": 10362,
+      "count": 65532,
       "max": [
-        1.0,
-        1.0,
-        1.0
+        0.9999980330467224,
+        0.9999963641166687,
+        0.9999743103981018
       ],
       "min": [
-        -1.0,
-        -1.0,
-        -1.0
+        -0.9999409914016724,
+        -0.9999785423278809,
+        -0.9999449253082275
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 10362,
+      "count": 65532,
       "max": [
-        0.9598253965377808,
-        0.9631428718566895
+        0.9924188256263733,
+        1.0
       ],
       "min": [
-        0.04753340035676956,
-        0.04120044410228729
+        0.0,
+        7.136404747143388e-05
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 15759,
+      "count": 343995,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 24709,
+      "max": [
+        -0.30030107498168945,
+        0.1661180555820465,
+        -6.959128379821777
+      ],
+      "min": [
+        -2.5334835052490234,
+        -1.1062339544296265,
+        -9.50500202178955
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1869276,
+      "componentType": 5126,
+      "count": 24709,
+      "max": [
+        0.9998641610145569,
+        0.9999262094497681,
+        0.9999316930770874
+      ],
+      "min": [
+        -0.9995655417442322,
+        -0.9999405741691589,
+        -0.9999021291732788
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 24709,
+      "max": [
+        0.9999438524246216,
+        0.9964410066604614
+      ],
+      "min": [
+        0.0,
+        0.0001330458326265216
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1375980,
+      "componentType": 5125,
+      "count": 106005,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "JasperTobias (https://sketchfab.com/JasperTobias)",
+      "author": "Sircher (https://sketchfab.com/Sircher)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/trawler-421f3239115c44539686fcb62835f115",
-      "title": "Trawler"
+      "source": "https://sketchfab.com/3d-models/svitzer-gelliswick-fishing-boat-3d-scan-172f7b2cddb942c4a6867e55bea4c47a",
+      "title": "Svitzer Gelliswick - Fishing boat 3D Scan"
     },
-    "generator": "Sketchfab-12.68.0",
+    "generator": "Sketchfab-12.66.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 63036,
+      "byteLength": 1800000,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 82896,
-      "byteOffset": 63036,
+      "byteLength": 721928,
+      "byteOffset": 1800000,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 248688,
-      "byteOffset": 145932,
+      "byteLength": 2165784,
+      "byteOffset": 2521928,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -90,19 +146,25 @@
   ],
   "buffers": [
     {
-      "byteLength": 394620,
+      "byteLength": 4687712,
       "uri": "scene.bin"
     }
   ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
   "images": [
     {
-      "uri": "Colour_Palette_baseColor.png"
+      "uri": "textures/material_0_baseColor.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "Colour_Palette",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "material_0",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
@@ -113,7 +175,7 @@
   ],
   "meshes": [
     {
-      "name": "Trawler_Colour Palette_0",
+      "name": "Object_0",
       "primitives": [
         {
           "attributes": {
@@ -126,6 +188,21 @@
           "mode": 4
         }
       ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
     }
   ],
   "nodes": [
@@ -134,72 +211,47 @@
         1
       ],
       "matrix": [
-        1.0,
+        0.7907534241676331,
+        0.06294292956590639,
+        0.608890175819397,
         0.0,
+        0.03540404140949249,
+        0.98833167552948,
+        -0.14814552664756753,
         0.0,
+        -0.6111101508140564,
+        0.13870376348495467,
+        0.7792981863021851,
         0.0,
-        0.0,
-        2.220446049250313e-16,
-        -1.0,
-        0.0,
-        0.0,
-        1.0,
-        2.220446049250313e-16,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        7.365667819976807,
+        12.350164413452145,
+        17.144214630126957,
         1.0
       ],
       "name": "Sketchfab_model"
     },
     {
       "children": [
-        2
-      ],
-      "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0,
-        0.0,
-        0.0,
-        -1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ],
-      "name": "4336d96c515a4bdb99c08238bd7eb648.fbx"
-    },
-    {
-      "children": [
+        2,
         3
       ],
-      "name": "RootNode"
-    },
-    {
-      "children": [
-        4
-      ],
-      "name": "Trawler"
+      "name": "Geode"
     },
     {
       "mesh": 0,
-      "name": "Trawler_Colour Palette_0"
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
     }
   ],
   "samplers": [
     {
       "magFilter": 9729,
       "minFilter": 9987,
-      "wrapS": 10497,
-      "wrapT": 10497
+      "wrapS": 33071,
+      "wrapT": 33071
     }
   ],
   "scene": 0,
