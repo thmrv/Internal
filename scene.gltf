@@ -140,16 +140,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Sphere_baseColor.png"
+      "uri": "Sphere_baseColor.png"
     },
     {
-      "uri": "textures/Sphere_metallicRoughness.png"
+      "uri": "Sphere_metallicRoughness.png"
     },
     {
-      "uri": "textures/Sphere_emissive.jpeg"
+      "uri": "Sphere_emissive.jpeg"
     },
     {
-      "uri": "textures/Sphere_normal.png"
+      "uri": "Sphere_normal.png"
     }
   ],
   "materials": [
