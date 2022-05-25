@@ -253,21 +253,6 @@
         }
       ]
     },
-    {
-      "name": "pCube1_lambert1_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TEXCOORD_0": 7
-          },
-          "indices": 8,
-          "material": 1,
-          "mode": 4
-        }
-      ]
-    }
   ],
   "nodes": [
     {
