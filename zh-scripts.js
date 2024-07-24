@@ -1,4 +1,4 @@
- $('#parallax').parallax({
+ $('#rec772629323').parallax({
 	invertX: true,
 	invertY: true
 });
