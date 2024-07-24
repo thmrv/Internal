@@ -1,4 +1,4 @@
- $('#rec772629323').parallax({
+ $('#rec772629323 .t396__filter').parallax({
 	invertX: true,
 	invertY: true
 });
@@ -14,7 +14,7 @@ particlesJS("particles-js", {
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#FF5B45"
     },
     "shape": {
       "type": "circle",
@@ -23,7 +23,7 @@ particlesJS("particles-js", {
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 5
+        "nb_sides": 1
       },
       "image": {
         "src": "img/github.svg",
@@ -32,10 +32,10 @@ particlesJS("particles-js", {
       }
     },
     "opacity": {
-      "value": 0.5,
-      "random": false,
+      "value": 0.75,
+      "random": true,
       "anim": {
-        "enable": false,
+        "enable": true,
         "speed": 1,
         "opacity_min": 0.1,
         "sync": false
@@ -52,7 +52,7 @@ particlesJS("particles-js", {
       }
     },
     "line_linked": {
-      "enable": true,
+      "enable": false,
       "distance": 150,
       "color": "#ffffff",
       "opacity": 0.4,
@@ -62,12 +62,12 @@ particlesJS("particles-js", {
       "enable": true,
       "speed": 6,
       "direction": "none",
-      "random": false,
+      "random": true,
       "straight": false,
       "out_mode": "out",
       "bounce": false,
       "attract": {
-        "enable": false,
+        "enable": true,
         "rotateX": 600,
         "rotateY": 1200
       }
@@ -78,7 +78,7 @@ particlesJS("particles-js", {
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "grab"
+        "mode": "push"
       },
       "onclick": {
         "enable": true,
